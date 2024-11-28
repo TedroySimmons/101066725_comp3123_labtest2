@@ -1,5 +1,5 @@
 # React Weather App 
-
+Shows the current weather in a searched city
 ## Run the app
 ### `npm start`
 Open http://localhost:3000 to view it in your browser.
