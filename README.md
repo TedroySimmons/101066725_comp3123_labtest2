@@ -1,7 +1,7 @@
 # React Weather App 
 ### `npm start`
 
-##Runs the app
+#Runs the app
 Open http://localhost:3000 to view it in your browser.
 The page will load
 
